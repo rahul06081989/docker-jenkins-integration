@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <build>
 	  <finalName>
-		  docker-jenkins-integraion
+		  docker-jenkins-integration
 	  </finalName>
   </build>
 </project>
